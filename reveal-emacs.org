@@ -1,0 +1,84 @@
+#+title: Emacas Makes A Computer Special
+#+date: <2020-03-09 Mon>
+#+author: Roland Tritsch
+#+email: roland@tritsch.org
+#+options: timestamp:nil title:t author:t
+#+options: toc:t num:nil
+
+* Reasons
+
+  - Use the keyboard
+  - Using lots of languages
+  - Free software, no license, no cost, ...
+  - Heavily cusomizable (through/with elisp), ...
+  - Feels more like an IDE platform to build on
+  - More effective, efficient
+  - It's everywhere (in case you need to ssh into a box)
+
+* Learning
+
+  - Using emacs
+  - Emacs rocks
+  - Emacs chats
+  - Emacs keyboard shortcut training
+
+* Coding - General
+
+  - Autocompletion
+  - Navigation
+
+* Coding - Elixir
+
+** Alchemist
+
+   - navigate
+   - iex
+   - mix-test
+
+** LSP server
+
+   - WIP
+
+** Workflow(s)
+
+   - start with the test
+     - for new features and bug-fixes
+   - disable =run test at safe=
+     - run =test at point=
+     - repeat with =r=
+
+* Coding - Magit
+
+  - Stage
+  - Commit
+  - Push
+  - Rebase
+
+* Extending/customize emacs (through/with elisp)
+
+  - WIP
+
+* GTD
+
+  - org-mode
+
+* Presentations
+
+  - Reveal
+  - PDF
+
+* Configuration
+
+  - one init.el
+  - one myinit.org
+  - multiple org files
+
+* Mail
+
+  - WIP
+
+* Calendar
+
+  - WIP
+
+* Q&A

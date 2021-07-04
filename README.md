@@ -1,2 +1,1 @@
-# reveal-emacs
-About using Emacs
+# About using Emacs
